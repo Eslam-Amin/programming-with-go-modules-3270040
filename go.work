@@ -5,3 +5,6 @@ use (
 	./emojiis
 	./emoserv
 )
+
+// ```go work edit -dropuse ./emojiis``` to remove the package
+// ```go work use ./emojiis``` to add the package
